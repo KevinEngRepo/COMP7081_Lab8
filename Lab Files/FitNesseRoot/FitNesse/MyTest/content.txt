@@ -1,0 +1,14 @@
+!contents -R2 -g -p -f -h
+!*< Hidden
+!define TEST_SYSTEM {slim}
+*!
+
+!path D:\BTech Course Stuff\COMP 7081\Github\COMP7081_Lab8\Lab Files\FitNesseRoot\home\id\Fitnesse
+| Addition|
+| firstNumber | secondNumber| Result? |
+| 10 | 2 | 12.0 |
+| 12.6 | 3 | 15.6 |
+| 22 | 7 | 29.0 |
+| 9 | 3 | <15 |
+| 11 | 2 | 10<_<16 |
+| 100 | 4 | 33 |
