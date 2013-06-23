@@ -1,7 +1,7 @@
 !3 !-slim:fitnesse.slim.SlimService-!
-|'''Date: '''| 3:40:19 PM (PDT) on Sunday, June 23, 2013 |
+|'''Date: '''| 4:37:48 PM (PDT) on Sunday, June 23, 2013 |
 |'''Test Page: '''|.FitNesse.MyTest|
-|'''Command: '''| !-java -cp fitnesse-standalone.jar;"D:\BTech Course Stuff\COMP 7081\Github\COMP7081_Lab8\Lab Files\FitNesseRoot\home\id\Fitnesse";classes;lib/*.jar fitnesse.slim.SlimService  8089-! |
+|'''Command: '''| !-java -cp fitnesse-standalone.jar;"D:\BTech Course Stuff\COMP 7081\Github\COMP7081_Lab8\Lab Files\FitNesseRoot\home\id\Fitnesse";classes;lib/*.jar fitnesse.slim.SlimService  8086-! |
 |'''Exit code: '''| 0 |
-|'''Time elapsed: '''| 0.757 seconds |
+|'''Time elapsed: '''| 0.763 seconds |
 

@@ -4,11 +4,11 @@
 *!
 
 !path D:\BTech Course Stuff\COMP 7081\Github\COMP7081_Lab8\Lab Files\FitNesseRoot\home\id\Fitnesse
-| Addition|
-| firstNumber | secondNumber| Result? |
-| 10 | 2 | 12.0 |
-| 12.6 | 3 | 15.6 |
-| 22 | 7 | 29.0 |
-| 9 | 3 | <15 |
-| 11 | 2 | 10<_<16 |
-| 100 | 4 | 33 |
+|!CelsiusToFarhenheit|
+|celsius |Farhenheit?|
+|10      |50         |
+|12.6    |54.68      |
+|22      |~=71.6     |
+|9       |<50        |
+|11      |40<_<60    |
+|100     |33         |
