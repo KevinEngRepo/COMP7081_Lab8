@@ -1,2 +1,3 @@
-|FitNesse.MyTest||16:41:10 Sun, Jun 23, 2013|
+|FitNesse.MyTest.CelsiusToFarhenheit||19:25:31 Mon, Jun 24, 2013|
+|FitNesse.MyTest||18:17:23 Mon, Jun 24, 2013|
 |FitNesse.CelsiusToFarhenheit||16:34:59 Sun, Jun 23, 2013|

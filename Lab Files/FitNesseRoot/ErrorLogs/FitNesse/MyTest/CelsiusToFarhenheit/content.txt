@@ -1,0 +1,7 @@
+!3 !-slim:fitnesse.slim.SlimService-!
+|'''Date: '''| 7:25:33 PM (PDT) on Monday, June 24, 2013 |
+|'''Test Page: '''|.FitNesse.MyTest.CelsiusToFarhenheit|
+|'''Command: '''| !-java -cp fitnesse-standalone.jar;"H:\COMP 7081\COMP7081_Lab8\Lab Files\FitNesseRoot\home\id\Fitnesse";classes;lib/*.jar fitnesse.slim.SlimService  8093-! |
+|'''Exit code: '''| 0 |
+|'''Time elapsed: '''| 0.749 seconds |
+
